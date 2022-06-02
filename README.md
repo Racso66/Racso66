@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Racso66
+- 👀 I’m interested in Computer Science and Software Engineering.
+- 🌱 I’m currently learning Computer Vision.
+- 💞️ I’m looking to collaborate on software development and programming opportunities.
+- 📫 How to reach me : pyoscarwu@outlook.com
+
+<!---
+Racso66/Racso66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
