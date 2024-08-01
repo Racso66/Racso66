@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Racso66
 - 👀 I’m interested in Computer Science and Software Engineering.
-- 🌱 I’m currently learning Computer Vision.
-- 💞️ I’m looking to collaborate on software development and programming opportunities.
+- 🌱 Highest degree completed: Masters.
+- 💞️ Looking to collaborate in software development and programming opportunities.
 - 📫 How to reach me : pyoscarwu@outlook.com
 
 <!---
